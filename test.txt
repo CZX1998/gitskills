@@ -1,3 +1,5 @@
 this is czx.
 
 edit test.txt from branch sc.
+
+通过git push在远程添加新分支.
